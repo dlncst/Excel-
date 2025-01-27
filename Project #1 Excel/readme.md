@@ -7,3 +7,7 @@ This project includes data trasformation and cleaning by removing duplicates, fi
 With the data cleaned up I worked on creating pivot tables to reflect some of the trends across this dataset. 
 
 ![tables](https://github.com/user-attachments/assets/c20b5cbd-bacf-4faa-866a-51c3416191e6)
+
+Interactive Dashboard
+
+![sales_dashboard](https://github.com/user-attachments/assets/8bfa59fc-4884-404e-b3ce-2103dce4db97)
